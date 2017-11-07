@@ -1,7 +1,6 @@
 node_modules
 bower_components/
 node_modules/
-dist/
 release/
 js/ts/d.ts
 ts_compiled/
